@@ -35,4 +35,6 @@ The scr folder include "lenet_k210.py" --> model build and train script.
 
 if you want to see the compute graph, you can run this command (python ./gen_pb_graph.py workspace/mnist_lenet_K210_model.pb). The compute graph can show model input layer name and the final output layer name.The compute graph is base on TensorBoard.
 
+The model in model folder can be used directly.
+
 For more details you can see https://blog.csdn.net/weixin_44874976/article/details/104487069?spm=1001.2014.3001.5501
